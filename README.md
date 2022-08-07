@@ -1,4 +1,4 @@
-# Chotta_Bazaar-
+# Chotta_Bazaar
 <p align="center">
      <b>A community-based Blood and Medicine donation App built on Android Studio and Firebase Realtime Database.</b>
 </p>
