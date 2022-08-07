@@ -2,8 +2,8 @@
 <p align="center">
      <b> An app that makes it easier for small business owners to manage their sales and inventory evaluation and keep track of their inventory.</b>
 </p>
-The desktop application created for the shopping centre is called Chotta Bazar. It is used to manage the shop's inventory and sales. This makes the billing process quick and easy while also assisting the shopkeeper in keeping an accurate record of the stock. Instead of scanning a barcode, the salesperson enters the product id, and the Msql database instantly retrieves the product's details. It is far more practical than the other proprietary software and aids a shopkeeper in keeping a proper ledger.
 
+A Chotta Bazaar is a desktop application that was created for shopkeepers.Who cannot afford proprietary software's exorbitant cost? It is used for managing the shop's inventory and sales.This speeds up and simplifies the invoicing process and helps the shopkeeper maintain accurate stock records.The salesman only needs to provide the product id, and the Msql database instantly returns the product's details, simplifying the invoicing process.  This supports a store owner in maintaining a proper track of their books of accounts and inventories.
 
 ### LANGUAGES USED:
  1. C#
