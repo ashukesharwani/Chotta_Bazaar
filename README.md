@@ -2,7 +2,7 @@
 <p align="center">
      <b>A community-based Blood and Medicine donation App built on Android Studio and Firebase Realtime Database.</b>
 </p>
-Medimate is an attempt to ease the process of blood and medical emergencies by connecting blood donors and drug vendors directly with people in need of blood and medicines. Medimate connects blood donors and drug vendors with recipients, without any intermediary such as blood banks and pharma stores, for an efficient and seamless process.
+The desktop application created for the shopping centre is called Chotta Bazar. It is used to manage the shop's inventory and sales. This makes the billing process quick and easy while also assisting the shopkeeper in keeping an accurate record of the stock. Instead of scanning a barcode, the salesperson enters the product id, and the Msql database instantly retrieves the product's details. It is far more practical than the other proprietary software and aids a shopkeeper in keeping a proper ledger.
 
 
 ### LANGUAGES USED:
