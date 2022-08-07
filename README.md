@@ -26,11 +26,10 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
   
 The user needs to register to be eligible to use the app as well as he has to verify his email ID before logging into the app to access the app.
   
-<p><img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115997819-2ec8f780-a602-11eb-90c4-b40c5dc74717.jpeg" width="300" height="500">
+<p><img src="https://user-images.githubusercontent.com/83163103/183296512-408e0b8d-7531-4da2-b028-fc2adb8153d8.png" width="300" height="500">&emsp;
+<img src="https://user-images.githubusercontent.com/83163103/183296521-8e7c5f84-e40e-40c4-aa9a-4ac5eb1a891a.png" width="300" height="500">&emsp;
+<img src="https://user-images.githubusercontent.com/83163103/183296526-72b6ed83-470f-44fc-9f13-8896f098322b.png" width="300" height="500">
 </p>
-
 
 3. **HOMEPAGE**:
 
