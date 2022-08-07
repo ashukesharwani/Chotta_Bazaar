@@ -6,7 +6,7 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
 
 ### LANGUAGES USED:
- 1. C Sharp
+ 1. C#
  2. SQL
 
 ### TOOLS AND TECHNOLOGIES USED:
