@@ -18,7 +18,7 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
  
- <img src="https://user-images.githubusercontent.com/83163103/115995679-e86f9a80-a5f9-11eb-99fe-22af88fa6ca1.jpeg" width="300" height="500">
+ <img src="https://user-images.githubusercontent.com/83163103/183296120-dba0b56b-6e51-4b0b-a1b4-be4f5d49b713.png" >
   
    
 2. **LOGIN & REGISTRATION**:
