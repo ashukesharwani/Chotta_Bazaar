@@ -7,11 +7,11 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
 ### LANGUAGES USED:
  1. C Sharp
- 2. XML :FOR LAYOUT
+ 2. SQL
 
 ### TOOLS AND TECHNOLOGIES USED:
- 1. ANDROID STUDIO(FOR DEVELOPMENT PURPOSE)
- 2. FIREBASE REALTIME DATABASE
+ 1. .NET Framework
+ 2. MYSQ
 
 ## DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
 1. **MAIN ACTIVITY**:
