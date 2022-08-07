@@ -1,6 +1,6 @@
 # Chotta_Bazaar
 <p align="center">
-     <b>A community-based Blood and Medicine donation App built on Android Studio and Firebase Realtime Database.</b>
+     <b> An app that makes it easier for small business owners to manage their sales and inventory evaluation and keep track of their inventory.</b>
 </p>
 The desktop application created for the shopping centre is called Chotta Bazar. It is used to manage the shop's inventory and sales. This makes the billing process quick and easy while also assisting the shopkeeper in keeping an accurate record of the stock. Instead of scanning a barcode, the salesperson enters the product id, and the Msql database instantly retrieves the product's details. It is far more practical than the other proprietary software and aids a shopkeeper in keeping a proper ledger.
 
