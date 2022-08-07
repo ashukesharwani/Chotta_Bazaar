@@ -35,23 +35,23 @@ The user needs to register to be eligible to use the app as well as he has to ve
 
     This page will initially ask for services they are seeking: blood donation, blood-seeking, medicine donation, medicine seeking, News, or Facts. From here the users can choose the respective services according to their requirements. 
    
-<p><img src="https://user-images.githubusercontent.com/83163103/115995684-ea395e00-a5f9-11eb-897b-3f02c8483cbc.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115995710-f1f90280-a5f9-11eb-9aff-ecba826d6fde.jpeg" width="300" height="500">&emsp;</p>
+<img src="https://user-images.githubusercontent.com/83163103/183296610-70310bb5-5f39-454a-b943-7cec3de58575.png" width="300" height="500">
+
+
+
 
 4. **PROFILE**:
 
    From here the user can see and edit their profile
    
-  <p> <img src="https://user-images.githubusercontent.com/83163103/115995706-f0c7d580-a5f9-11eb-9301-842378fba310.jpeg" width="300" height="500">&emsp;
-   <img src="https://user-images.githubusercontent.com/83163103/115995709-f1606c00-a5f9-11eb-84be-68e10873c61d.jpeg" width="300" height="500"></p>
+  <img src="https://user-images.githubusercontent.com/83163103/183296613-e1f88232-bfd9-411e-9a4b-9fe0c32ac290.png">
 
 
 5. **NEWS**:
 
       This Service provides the latest News Related to health and Life. Which gets updated within every 3 hrs.
    
-<p> <img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">&emsp;
-     <img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500"></p>
+<img src="https://user-images.githubusercontent.com/83163103/183296614-16adfdcd-b447-4f62-ba63-1c42262664ae.png">
 
 6. **MEDICINE SEEKING**:
 
