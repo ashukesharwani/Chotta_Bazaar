@@ -14,7 +14,7 @@ A Chotta Bazaar is a desktop application that was created for shopkeepers.Who ca
  2. MYSQ
 
 ## DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
-1. **MAIN ACTIVITY**:
+1. **WELCOME SCREEN**:
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
  
@@ -37,7 +37,7 @@ The user needs to register to be eligible to use the app as well as he has to ve
 <img src="https://user-images.githubusercontent.com/83163103/183296526-72b6ed83-470f-44fc-9f13-8896f098322b.png" >
 
 
-4. **HOMEPAGE**:
+4. **DASHBOARD**:
 
     This page will initially ask for services they are seeking: blood donation, blood-seeking, medicine donation, medicine seeking, News, or Facts. From here the users can choose the respective services according to their requirements. 
    
@@ -46,7 +46,7 @@ The user needs to register to be eligible to use the app as well as he has to ve
 
 
 
-5. **MODIFICATION**:
+5. **MAINTAIN INVENTORIES**:
 
    From here the user can see and edit their profile
    
