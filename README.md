@@ -21,7 +21,7 @@ A Chotta Bazaar is a desktop application that was created for shopkeepers.Who ca
  <img src="https://user-images.githubusercontent.com/83163103/183296120-dba0b56b-6e51-4b0b-a1b4-be4f5d49b713.png" >
   
    
-2. **LOGIN & REGISTRATION**:
+2. **LOGIN**:
 
   
 The user needs to register to be eligible to use the app as well as he has to verify his email ID before logging into the app to access the app.
@@ -46,14 +46,14 @@ The user needs to register to be eligible to use the app as well as he has to ve
 
 
 
-5. **PROFILE**:
+5. **MODIFICATION**:
 
    From here the user can see and edit their profile
    
   <img src="https://user-images.githubusercontent.com/83163103/183296613-e1f88232-bfd9-411e-9a4b-9fe0c32ac290.png">
 
 
-6. **NEWS**:
+6. **SALES**:
 
       This Service provides the latest News Related to health and Life. Which gets updated within every 3 hrs.
    
