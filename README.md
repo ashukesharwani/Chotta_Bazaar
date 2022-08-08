@@ -13,7 +13,7 @@ A Chotta Bazaar is a desktop application that was created for shopkeepers.Who ca
  1. .NET Framework
  2. MYSQ
 
-## DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
+## DESCRIPTION OF EACH ACTIVITY:
 1. **WELCOME SCREEN**:
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
