@@ -54,7 +54,7 @@ To use the app, a user must first register. He must also confirm his email addre
 
 6. **SALES**:
 
-      This Service provides the latest News Related to health and Life. Which gets updated within every 3 hrs.
+     This page enables salespeople to sell products by simply entering the product ID and the amount. As sales are launched, the page also immediately removes the sales goods from the database.
    
 <img src="https://user-images.githubusercontent.com/83163103/183296614-16adfdcd-b447-4f62-ba63-1c42262664ae.png">
 
