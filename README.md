@@ -39,7 +39,7 @@ To use the app, a user must first register. He must also confirm his email addre
 
 4. **DASHBOARD**:
 
-    This page will initially ask for services they are seeking: blood donation, blood-seeking, medicine donation, medicine seeking, News, or Facts. From here the users can choose the respective services according to their requirements. 
+  Users enter the dashboard after being authenticated, and from there they may access all operations. 
    
 <img src="https://user-images.githubusercontent.com/83163103/183296610-70310bb5-5f39-454a-b943-7cec3de58575.png">
 
@@ -54,7 +54,7 @@ To use the app, a user must first register. He must also confirm his email addre
 
 6. **SALES**:
 
-     This page enables salespeople to sell products by simply entering the product ID and the amount. As sales are launched, the page also immediately removes the sales goods from the database.
+This page enables salespeople to sell products by simply entering the product ID and the quantity. As sales are launched, the page also immediately removes the sales goods from the database.
    
 <img src="https://user-images.githubusercontent.com/83163103/183296614-16adfdcd-b447-4f62-ba63-1c42262664ae.png">
 
