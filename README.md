@@ -48,9 +48,8 @@ To use the app, a user must first register. He must also confirm his email addre
 
 5. **MAINTAIN INVENTORIES**:
 
-   From here the user can see and edit their profile
-   
-  <img src="https://user-images.githubusercontent.com/83163103/183296613-e1f88232-bfd9-411e-9a4b-9fe0c32ac290.png">
+   This page allows the sales man to maintain his inventory of the store either by inserting , deleting or updating and also  they can keep the complete detailed stock record.
+   <img src="https://user-images.githubusercontent.com/83163103/183296613-e1f88232-bfd9-411e-9a4b-9fe0c32ac290.png">
 
 
 6. **SALES**:
