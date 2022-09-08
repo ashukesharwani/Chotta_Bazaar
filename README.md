@@ -24,7 +24,7 @@ A Chotta Bazaar is a desktop application that was created for shopkeepers.Who ca
 2. **LOGIN**:
 
   
-The user needs to register to be eligible to use the app as well as he has to verify his email ID before logging into the app to access the app.
+Before allowing access to an application, the login page verifies the users' identities.
   
 <img src="https://user-images.githubusercontent.com/83163103/183296512-408e0b8d-7531-4da2-b028-fc2adb8153d8.png">
 
