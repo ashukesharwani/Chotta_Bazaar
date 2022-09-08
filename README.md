@@ -31,7 +31,7 @@ Before allowing access to an application, the login page verifies the users' ide
 3. **REGISTRATION**:
 
   
-The user needs to register to be eligible to use the app as well as he has to verify his email ID before logging into the app to access the app.
+To use the app, a user must first register. He must also confirm his email address before logging in to access the app's transactional features.
   
 <img src="https://user-images.githubusercontent.com/83163103/183296521-8e7c5f84-e40e-40c4-aa9a-4ac5eb1a891a.png" >
 <img src="https://user-images.githubusercontent.com/83163103/183296526-72b6ed83-470f-44fc-9f13-8896f098322b.png" >
