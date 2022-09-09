@@ -39,7 +39,7 @@ To use the app, a user must first register. Before checking in, he must further 
 
 4. **DASHBOARD**:
 
-  Users enter the dashboard after being authenticated, and from there they may access all operations. 
+  The major element of the page is the Dashboard, from which users may access all activities and also track employee transaction history.
    
 <img src="https://user-images.githubusercontent.com/83163103/183296610-70310bb5-5f39-454a-b943-7cec3de58575.png">
 
