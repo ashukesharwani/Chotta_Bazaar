@@ -24,14 +24,14 @@ A Chotta Bazaar is a desktop application that was created for shopkeepers.Who ca
 2. **LOGIN**:
 
   
-Before allowing access to an application, the login page verifies the users' identities.
+The login page authenticates users before granting access to an application.
   
 <img src="https://user-images.githubusercontent.com/83163103/183296512-408e0b8d-7531-4da2-b028-fc2adb8153d8.png">
 
 3. **REGISTRATION**:
 
   
-To use the app, a user must first register. He must also confirm his email address before logging in to access the app's transactional features.
+To use the app, a user must first register. Before checking in, he must further validate his email address in order to use the app's transactional functions.
   
 <img src="https://user-images.githubusercontent.com/83163103/183296521-8e7c5f84-e40e-40c4-aa9a-4ac5eb1a891a.png" >
 <img src="https://user-images.githubusercontent.com/83163103/183296526-72b6ed83-470f-44fc-9f13-8896f098322b.png" >
